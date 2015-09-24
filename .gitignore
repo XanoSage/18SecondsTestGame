@@ -1,0 +1,56 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+obj/
+UnityGenerated/
+Library/
+Builds/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+Assets/UnityVS/
+Assets/UnityVS.meta
+*.sln.DotSettings
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+UnityVS*
+/Assets/Standard Assets/Scripts/General Scripts.meta
+/Assets/DinoDig.meta
+/Assets/DinoDig/Deque.meta
+/Assets/DinoDig/Game_Museum.meta
+/Assets/DinoDig/Game_Museum/Scripts.meta
+/Assets/DinoDig/Scripts.meta
+/Assets/JMO Assets/Editor.meta
+/Assets/Resources/Splash.meta
+/Assets/Resources/UI.meta
+/Assets/StoryToysUIElements/Textures/IAPs.meta
+/Assets/Resources/BookShelf/Animation/UI.meta
+/Assets/Resources/Games/HiddenObjects/UI.meta
+/Assets/Resources/BookShelf/Animation.meta
+/Assets/EasyUIMotion/Plugins.meta
+/Assets/EasyUIMotion/_Example.meta
+/Assets/Resources2/Games/HiddenObjects/Temp.meta
+/Assets/StoryToysExternals/StoryToysExternals/Swrve/SwrveSDK/Helpers.meta
+/Assets/StoryToysUIElements/StoryToysUIElements.meta
